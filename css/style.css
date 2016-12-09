@@ -152,9 +152,9 @@ img {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  background-image: url('../images/pag1_backhigh.jpg');
+  /*background-image: url('../images/pag1_backhigh.jpg');
   background-position: 50% 0px;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .pagina-1__seta {
