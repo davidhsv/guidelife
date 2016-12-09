@@ -413,6 +413,16 @@ img {
   min-height: 80vh;
 }
 
+.seta-container {
+	    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .slider__container {
   display: -webkit-box;
   display: -webkit-flex;
