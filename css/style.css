@@ -505,6 +505,7 @@ img {
   align-self: flex-start;
   color: #fff;
   line-height: 1em;
+  text-align: left;
 }
 
 .footer__center {
@@ -832,7 +833,6 @@ img {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 15vh;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
