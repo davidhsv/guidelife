@@ -209,7 +209,8 @@ img {
   font-weight: 300;
 }
 
-.navbar-fixo__logotipo {
+.
+__logotipo {
   position: absolute;
   top: -3px;
   width: 193px;
@@ -349,6 +350,15 @@ img {
 
 .navbar-fixo {
   position: fixed;
+  left: 0px;
+  right: 0px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+}
+
+.navbar-fixo-topo {
   left: 0px;
   right: 0px;
   display: block;
