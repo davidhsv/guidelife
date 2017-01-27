@@ -1053,7 +1053,6 @@ html.w-mod-js *[data-ix="display-none"] {
   .footer__texto {
     width: 100%;
     font-size: 14px;
-    text-align: center;
   }
   .footer__center {
     -webkit-box-orient: vertical;
